@@ -1,11 +1,11 @@
 ---------------------------------------------------------------------------------- 
--- Create Date:    12:01:47 10/05/2017 
+-- Create Date:    12:01:47 10/05/2021 
 -- Design Name: 
 -- Module Name:    counter_module - Behavioral 
 -- Project Name:   Counter
 -- Description:    Model of an N-bit Counter
 --
--- Author:		   Anes Benmerzoug
+-- Author:		   K Shreenath
 ----------------------------------------------------------------------------------
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;

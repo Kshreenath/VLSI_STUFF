@@ -1,7 +1,7 @@
 --------------------------------------------------------------------------------
 -- Create Date:   12:02:39 10/05/2017
 -- Design Name:   
--- Module Name:   /home/koutetsu/Counter/VHDL/counter_testbench.vhd
+-- Module Name:   /home/kshreenath/Counter/VHDL/counter_testbench.vhd
 -- Project Name:  Counter
 -- 
 -- VHDL Test Bench for module: counter_module

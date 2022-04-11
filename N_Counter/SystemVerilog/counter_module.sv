@@ -5,10 +5,10 @@
 // Project Name: 	 Counter
 // Description:    Model of an N-bit Counter
 //
-// Author:			 Anes Benmerzoug
-//						 Anes.Benmerzoug@gmail.com
+// Author:			 K Shreenath
+//			
 //
-// Revision:		 Version 1.0 18/10/17
+// Revision:		 Version 1.0 
 //////////////////////////////////////////////////////////////////////////////////
 module counter_module
 	#(	parameter N = 17 )

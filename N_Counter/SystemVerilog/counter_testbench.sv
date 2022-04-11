@@ -6,10 +6,10 @@
 // Project Name: 	 Counter
 // Description:    Testbench for the Model of an N-bit Counter
 //
-// Author:			 Anes Benmerzoug
-//						 Anes.Benmerzoug@gmail.com
+// Author:			  K Shree
+//						 
 //
-// Revision:		 Version 1.0 18/10/17
+// Revision:		 Version 1
 ////////////////////////////////////////////////////////////////////////////////
 
 module counter_testbench;
